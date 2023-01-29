@@ -6,3 +6,6 @@ Percolation threshold is an important measure to determine the inherent rigidity
 
 ## Objective
 To develop a model to estimate percolation thrershold for complex networks, faster and with higher accuracy.
+
+## Model Explanation
+![Model-Diagram](Assets/datasetDivision.png)

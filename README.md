@@ -1,4 +1,4 @@
-# PercolationThreshold
+# Percolation Threshold
 Machine Learning Models for Percolation Threshold prediction in network science
 
 ## Abstract

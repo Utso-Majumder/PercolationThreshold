@@ -9,3 +9,17 @@ To develop a model to estimate percolation thrershold for complex networks, fast
 
 ## Model Explanation
 ![Model-Diagram](Assets/datasetDivision.png)
+
+Here we are displaying the dataset composition for our experiments. For our machine learning models, we have used:
+* Linear Regressor
+* Random Forest Regressor
+* Simple Artificial Neural Network (with one hidden layer)
+* Multilayer Perceptron
+* Gradient Bossting Regressor
+
+## Results
+![Model-Diagram](Assets/resultTable.png)
+
+## Conclusion and Future Plans
+Our model outperforms existing statistical estimators of bond percolation threshold as described in the article. We have introduced these models for site and explosive percolation thresholds and have obtained siginificant results. 
+Out of the five models, Gradient Boosting Regressor performs the best, followed by Multilayer Perceptron and Random Forest Rregressor.
